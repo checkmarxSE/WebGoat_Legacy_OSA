@@ -87,4 +87,4 @@ project using maven:
     > cd target
     > java -jar WebGoat-6.0-exec-war.jar http://localhost:8080/WebGoat
 "# WebGoat_Legacy_OSA" 
-#1
+#2
